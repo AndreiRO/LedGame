@@ -28,5 +28,5 @@ Tutorial
 License
 =======
 
-    The license for this project is LGPL. See [this link](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html) for full license text.
+The license for this project is LGPL. See [this link](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html) for full license text.
 
