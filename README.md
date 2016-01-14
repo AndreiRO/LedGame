@@ -21,7 +21,7 @@ Tutorial
 
 1. Copy all files to a new Python project in Wyliodrin.
 
-2. Wire the board using [this](./schema2.png) scheme.
+2. Wire the board using ![alt-text](./schema2.png) scheme.
 
 3. Run project
 
